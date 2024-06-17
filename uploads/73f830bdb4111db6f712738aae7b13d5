@@ -1,0 +1,11 @@
+Long Cheng, Li Du, Cong Liu, Yang Hu, Fang Fang, Tomas Ward,
+Multi-modal fusion for business process prediction in call center scenarios,
+Information Fusion,
+Volume 108,
+2024,
+102362,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2024.102362.
+(https://www.sciencedirect.com/science/article/pii/S1566253524001404)
+Abstract: Call centers are critical for gathering customer feedback, making them essential for business communication. Predicting the ongoing business process status accurately has become a focus in both academia and industry. However, current methods mainly analyze process sequence data from enterprise information systems, missing out on valuable data from other sources like call centers. Moreover, these methods often focus on a single task, ignoring the shared information across multiple tasks. This paper presents a novel method for business process prediction that fuses multi-modal data from both information systems and call centers. Specifically, the method combines sequence data from the enterprise information system and dialogue text data from the call center for a more enriched business process prediction. Additionally, to navigate the multi-task learning conundrum, we improve the existing MMoE algorithm and introduce a new multi-task learning architecture called Heterogeneous Multi-gate Mixture-of-experts. The experimental results over some current approaches like Transformer, CNN and LSTM show superior prediction performance compared to baseline models, demonstrating that our method can help call centers optimize their processes, improve customer service, and drive business success.
+Keywords: Multi-modal fusion; Business process prediction; Transformer; Call center
